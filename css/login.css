@@ -94,3 +94,37 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
 }
+
+.user-name-label{
+    margin-left: 30px;
+    
+}
+.email-label{
+    margin-left: 30px;
+    margin-top: 5px;
+    border:none;
+    
+}
+.email-input{
+    margin-top: 10px;
+    margin-left: 38px;
+   
+}
+.number-label{
+    margin-left: 30px;
+    margin-top: 5px;
+   
+}
+.number-input{
+    margin-left: 21px;
+    margin-top: 5px;
+}
+.password-label{
+    margin-left: 30px;
+    
+}
+.password-input{
+    margin-top: 5px;
+    margin-left: 12px;
+}
+
